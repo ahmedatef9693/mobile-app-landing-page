@@ -91,10 +91,13 @@ h2{
 }
 
 #testimonials{
-    padding: 7% 15%;
+    
     background-color: #ef8172;
     text-align: center;
     color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
 }
 #testimonials img{
     border-radius: 50%;
@@ -115,7 +118,9 @@ h2{
     margin-bottom: 50px;
 }
 
-
+.carousel-item{
+    height: 500px;
+}
 
 /* .second-container-fluid{
     background-color: white;
