@@ -206,3 +206,15 @@ i:hover{
 
 
 }
+
+@media (max-width:1182px){
+    
+    #footer{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+
+}
